@@ -19,10 +19,10 @@ export default function Hero() {
             ></div>
           </div>
           {/* <!-- Hero --> */}
-          <div class="w-full h-full pt-10 sm:pt-20 lg:pt-6 relative overflow-hidden before:absolute before:top-0 before:start-1/2   before:bg-[url('https://i.postimg.cc/KYQR1Hkb/Hexagon-2.png')]  before:bg-no-repeat before:bg-top before:bg-cover before:size-full before:-z-[1] before:transform before:-translate-x-1/2">
-            <div class="px-4 backdrop-blur-sm sm:px-6 lg:px-0 pt-10 m-0">
+          <div class="w-full h-full pt-5 sm:pt-20 lg:pt-6 relative overflow-hidden before:absolute before:top-0 before:start-1/2   before:bg-[url('https://i.postimg.cc/KYQR1Hkb/Hexagon-2.png')]  before:bg-no-repeat before:bg-top before:bg-cover before:size-full before:-z-[1] before:transform before:-translate-x-1/2">
+            <div class="px-4 backdrop-blur-sm sm:px-6 lg:px-0 pt-10">
               {/* <!-- Hero --> */}
-              <div class="">
+              <div class="backdrop-blur-sm">
                 <div class=" max-w-5xl h-full mx-auto px-4 xl:px-0 pt-16 lg:pt-36 pb-24">
                   <h1 class="font-semibold text-teal-300/80  text-3xl md:text-3xl">
                     <div class="text-5xl  sm:text-5xl  md:text-6xl flex justify-start pb-5 text-skin-500 ">
@@ -53,8 +53,8 @@ export default function Hero() {
                   <div className=" pt-6 ">
                   
                   {/* contact us  */}
-                    <button class="group/button  relative inline-flex items-center justify-center overflow-hidden rounded-lg bg-gradient-to-b from-sex-500 to-sex-800 backdrop-blur-lg px-3 py-1  text-white transition-all duration-300 ease-in-out hover:scale-110 hover:shadow-xl hover:shadow-sex-600/50 ">
-                      <span class="text-lg">Contact us </span>
+                    <button class="group/button  relative inline-flex items-center justify-center overflow-hidden rounded-lg bg-gradient-to-b from-sex-500 to-sex-800 backdrop-blur-lg px-2 sm:px-3 py-1  text-white transition-all duration-300 ease-in-out hover:scale-110 hover:shadow-xl hover:shadow-sex-600/50 ">
+                      <span class="sm:text-md text-lg">Contact us </span>
                       <div class="absolute inset-0 flex h-full w-full justify-center [transform:skew(-13deg)_translateX(-100%)] group-hover/button:duration-1000 group-hover/button:[transform:skew(-13deg)_translateX(100%)]">
                         <div class="relative h-full w-10 bg-white/30"></div>
                       </div>

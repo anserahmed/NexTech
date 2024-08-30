@@ -14,8 +14,8 @@ export default function Navbar() {
 
   return (
     <>
-      <nav className="shadow-lg z-10   fixed w-full border-b border-slate-700 text-slate-50">
-        <section className="inner-container bg-transparent/50 backdrop-blur-lg backdrop-brightness-150 min-w-full flex justify-between items-center px-4 py-2 lg:px-14 sm:px-6 sm:py-2 lg:py-4">
+      <nav className="shadow-lg z-10 fixed w-full border-b border-slate-700 text-slate-50">
+        <section className="inner-container bg-transparent/50 backdrop-blur-lg backdrop-brightness-150 min-w-full flex justify-between items-center px-4 py-3 lg:px-14 sm:px-6 sm:py-3 lg:py-4">
           {/* Brand */}
           <div
             className="flex gap-1 sm:gap-0 justify-center items-center "

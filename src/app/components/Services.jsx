@@ -49,7 +49,7 @@ export default function Services() {
         {/* services */}
         <div className="flex flex-col px-7 justify-center items-center pt-10">
           <h1 className="items-center font-bold pb-2 text-black text-5xl">
-            <span className="text-skin-500">Services</span> we offer
+            <span className="text-skin-600">Services</span> we offer
           </h1>
           <p className="lg:max-w-[60vw] justify-center">
             We develop bespoke software solutions designed to elevate your

@@ -48,7 +48,7 @@ export default function Services() {
       <div className="justify-center flex flex-col h-full bg-slate-300/80  top-0 start-1/2   bg-[url('https://i.postimg.cc/YqzDVj11/Simple-Shiny-5.png')]  bg-no-repeat bg-top bg-cover size-full z-[1] transform  items-center">
         {/* services */}
         <div className="flex flex-col px-7 justify-center items-center pt-10">
-          <h1 className="items-center font-bold pb-2 text-5xl">
+          <h1 className="items-center font-bold pb-2 text-black text-5xl">
             <span className="text-skin-500">Services</span> we offer
           </h1>
           <p className="lg:max-w-[60vw] justify-center">

@@ -20,14 +20,14 @@ export default function Hero() {
           </div>
           {/* <!-- Hero --> */}
           <div class="w-full h-full pt-10 sm:pt-20 lg:pt-6 relative overflow-hidden before:absolute before:top-0 before:start-1/2   before:bg-[url('https://i.postimg.cc/KYQR1Hkb/Hexagon-2.png')]  before:bg-no-repeat before:bg-top before:bg-cover before:size-full before:-z-[1] before:transform before:-translate-x-1/2">
-            <div class="px-4 sm:px-6 lg:px-0 pt-10 m-0">
+            <div class="px-4 backdrop-blur-sm sm:px-6 lg:px-0 pt-10 m-0">
               {/* <!-- Hero --> */}
-              <div class="backdrop-blur-sm">
+              <div class="">
                 <div class=" max-w-5xl h-full mx-auto px-4 xl:px-0 pt-16 lg:pt-36 pb-24">
-                  <h1 class="  font-semibold text-teal-300/80  text-3xl md:text-3xl">
-                    <div class="text-4xl  sm:text-5xl  md:text-6xl flex justify-start pb-5 text-skin-500 ">
+                  <h1 class="font-semibold text-teal-300/80  text-3xl md:text-3xl">
+                    <div class="text-5xl  sm:text-5xl  md:text-6xl flex justify-start pb-5 text-skin-500 ">
                       <h1>
-                        Transforming ideas{" "}
+                        Transforming ideas
                         <span className=" text-white"> into reality</span>
                       </h1>{" "}
                     </div>

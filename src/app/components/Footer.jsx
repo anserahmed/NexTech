@@ -12,7 +12,7 @@ export default function Footer() {
             class="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse"
           >
             <span class="self-center text-2xl font-semibold whitespace-nowrap">
-              <h1 className="z-10 text-gry-500 sm:text-3xl text-2xl font-bold  ">
+              <h1 className="z-10 text-gry-500 text-black sm:text-3xl text-2xl font-bold  ">
                 Nex<span className="text-sex-600">Techs</span>
               </h1>
             </span>
